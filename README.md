@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="50" alt="welcome gif" style="margin-bottom: 10px;" />
+<div align="center" style="width: 80px; height: 80px; overflow: hidden;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 80%; height: 80%; object-fit: contain;" alt="welcome gif" />
 </div>
 
 <div align="center">
