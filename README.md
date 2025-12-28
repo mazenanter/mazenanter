@@ -1,64 +1,68 @@
-<div align="center" style="width: 80px; height: 80px; overflow: hidden;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 80%; height: 80%; object-fit: contain;" alt="welcome gif" />
-</div>
+<h1 align="left">Hey 👋 I'm Mazen</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mazen-anter-aa4089169/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:mazenanter99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.facebook.com/mazenanter10/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.instagram.com/_mazenx14/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
+###
 
-<br/>
+<p align="left">I'm a Backend .Net & Flutter developer</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mazenanter.mazenanter&" alt="visitor badge" />
-</div>
+###
 
----
+<h2 align="left">About me</h2>
 
-<h1 align="center">Hey there 👋</h1>
+###
 
-### 👨‍💻 About Me
+<p align="left">👋 I'm a passionate Software Engineer specializing in .NET Core for the backend and Flutter for the frontend. I love bridging the gap between robust server-side logic and beautiful user interfaces.<br><br>🛠️ Working on: Advanced E-commerce APIs and real-time mobile applications.<br><br>🌱 Exploring: Clean Architecture patterns and DevOps practices.<br><br>💬 Ask me about: C#, ASP.NET Core, Dart, or State Management in Flutter.<br><br>⚡ Motto: Code is like humor. When you have to explain it, it’s bad.</p>
 
-- 🔭 I’m a **Flutter Developer** from Egypt  
-- 💬 Ask me about **Flutter, Dart, Firebase, APIs, and Mobile Development**
-- 📫 Reach me at: **mazenanter99@gmail.com**
-- ⚡ Fun fact: I love building smart apps and automating stuff!
+###
 
----
+<h2 align="left">I code with</h2>
 
-### 🛠 Languages & Tools
+###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" style="object-fit: contain;" title="Flutter" alt="flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30" style="object-fit: contain;" title="Dart" alt="dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30" style="object-fit: contain;" title="Firebase" alt="firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="30" height="30" style="object-fit: contain;" title="Android Studio" alt="androidstudio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30" style="object-fit: contain;" title="SQLite" alt="sqlite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" style="object-fit: contain;" title="Git" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" style="object-fit: contain;" title="VS Code" alt="vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" style="object-fit: contain;" title="C++" alt="cplusplus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
----
+###
 
-### 📊 GitHub Stats
+<div align="left">
+  <a href="https://www.linkedin.com/in/mazen-anter-aa4089169/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/M4zen5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mazenanter99@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mazenanter&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazenanter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazenanter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
-
-### 🌍 Hello World!
-
-Thanks for visiting my profile — Let's build something amazing together 🚀
+###
