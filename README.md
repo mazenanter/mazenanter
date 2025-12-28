@@ -10,6 +10,10 @@
 
 ###
 
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+
+###
+
 <p align="left">👋 I'm a passionate Software Engineer specializing in .NET Core for the backend and Flutter for the frontend. I love bridging the gap between robust server-side logic and beautiful user interfaces.<br><br>🛠️ Working on: Advanced E-commerce APIs and real-time mobile applications.<br><br>🌱 Exploring: Clean Architecture patterns and DevOps practices.<br><br>💬 Ask me about: C#, ASP.NET Core, Dart, or State Management in Flutter.<br><br>⚡ Motto: Code is like humor. When you have to explain it, it’s bad.</p>
 
 ###
